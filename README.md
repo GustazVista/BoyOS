@@ -1,2 +1,2 @@
 # BoyOS
-Operating system of mine
+Operating system created by Joeboi
